@@ -26,8 +26,10 @@ Hi! I'm
 
 <div>
   <a href="https://github.com/oo-ni/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=oo-ni&include_all_commits=true&show_icons=true&theme=github_dark" style="max-width: 100%; height: auto;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oo-ni&layout=compact" style="max-width: 100%; height: auto;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=oo-ni&include_all_commits=true&show_icons=true&theme=github_dark"/>
+  </a>
+  <a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oo-ni&layout=compact"/>
   </a>
 </div>
 
