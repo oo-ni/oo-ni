@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=175&text=Prime%20Time&animation=fadeIn&fontAlignY=35)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=175&text=It's%20My%20Prime%20Time%20🍀&animation=fadeIn&fontAlignY=35&fontSize=45)
 </div>
 
 ## 😀 About Me
