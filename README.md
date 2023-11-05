@@ -5,10 +5,11 @@
 
 ## 😀 About Me
 - Major in Computer Science & Engineering
-- LIKELION GCU 7th
-- 2021 NIA Big Data Internship
-- BOAZ 21st Data Engineering
-- Kakao Enterprise SW Academy - KEA 3rd
+- Studying the field of **Backend & Data Engineering**
+- LIKELION GCU *7th*
+- *2021* NIA Big Data Internship
+- BOAZ *21st* Data Engineering
+- Kakao Enterprise SW Academy - KEA *3rd*
 
 <br>
 
