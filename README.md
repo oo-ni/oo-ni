@@ -4,6 +4,14 @@
 </div>
 
 ## 😀 About Me
+- Major in Computer Science & Engineering
+- LIKELION GCU 7th
+- 2021 NIA Big Data Internship
+- BOAZ 21st Data Engineering
+- Kakao Enterprise SW Academy - KEA 3rd
+
+<br>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foo-ni&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
@@ -36,9 +44,6 @@
   
   <a>
     <img alt="apachekafka" src="https://img.shields.io/badge/apache kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
-  </a>
-  <a>
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
   </a>
   <a>
     <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
@@ -100,10 +105,13 @@
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   </a>
   <a>
-    <img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
   </a>
   <a>
     <img alt="flask" src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  </a>
+  <a>
+    <img alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   </a>
   <br>
   <a>
@@ -115,12 +123,15 @@
   <a>
     <img alt="qgis" src="https://img.shields.io/badge/qgis-589632?style=for-the-badge&logo=qgis&logoColor=white">
   </a>
+  <a>
+    <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  </a>
   
 </div>
 
 <br>
 
-## 💻 DEV's log
+## 💻 Dev's log
 <div align="center" dir="auto">
     <a href="https://geonoo.oopy.io/">
       <img alt="Notion" img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
