@@ -156,5 +156,10 @@
 
 <br>
 
+## 🍎 Algorithm
+<div align="center" dir="auto">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bdbsrjsdn)](https://solved.ac/bdbsrjsdn/)
+</div>
 
 
