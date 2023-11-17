@@ -79,6 +79,9 @@
   </a>
   <br>
   <a>
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  </a>
+  <a>
     <img alt="apachespark" src="https://img.shields.io/badge/apache spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
   </a>
   <a>
@@ -101,9 +104,6 @@
   </h3>
   <a>
     <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
-  </a>
-  <a>
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   </a>
   <a>
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
