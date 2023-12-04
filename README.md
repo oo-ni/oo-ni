@@ -96,6 +96,7 @@
 
 <br>
 
+<!--
 <div align="center" dir="auto">
   <h3>
     <a>
@@ -129,7 +130,7 @@
   </a>
   
 </div>
-
+-->
 <br>
 
 ## 💻 Dev's log
