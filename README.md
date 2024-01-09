@@ -15,8 +15,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foo-ni&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<br>
-
 ## ⭐️ Skills
 
 <div align="center" dir="auto">
@@ -26,9 +24,6 @@
     </a>
   </h3>
   <a>
-    <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  </a>
-  <a>
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
   </a>
   <a>
@@ -37,20 +32,16 @@
   <a>
     <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
   </a>
+
+  <br>
   <a>
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
   </a>
-  
-  <br>
-  
   <a>
     <img alt="apachekafka" src="https://img.shields.io/badge/apache kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
   </a>
   <a>
-    <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-  </a>
-  <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <img alt="elasticsearch" src="https://img.shields.io/badge/elastic search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
   </a>
   <br>
   <a></a>
@@ -62,12 +53,9 @@
 <div align="center" dir="auto">
   <h3>
     <a>
-      📚 Studying
+      📚 Interested In
     </a>
   </h3>
-  <a>
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-  </a>
   <a>
     <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   </a>
@@ -77,18 +65,15 @@
   <a>
     <img alt="jenkins" src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
   </a>
-  <br>
   <a>
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   </a>
+  <br>
   <a>
     <img alt="apachespark" src="https://img.shields.io/badge/apache spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
   </a>
   <a>
     <img alt="apacheairflow" src="https://img.shields.io/badge/apache airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
-  </a>
-  <a>
-    <img alt="elasticsearch" src="https://img.shields.io/badge/elastic search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
   </a>
   
   
@@ -131,19 +116,6 @@
   
 </div>
 -->
-<br>
-
-## 💻 Dev's log
-<div align="center" dir="auto">
-    <a href="https://geonoo.oopy.io/">
-      <img alt="Notion" img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
-    </a>
-    <a href="https://github.com/oo-ni/">
-      <img alt="GitHub" img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
-    </a>
-</div>
-
-<br>
 
 ## 🎲 Stats
 <div align="center" dir="auto">
@@ -154,10 +126,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oo-ni&layout=compact" style="max-width: 100%">
   </a>
 </div>
-
-<br>
-
-## 🍎 Algorithm
 <div align="center" dir="auto">
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bdbsrjsdn)](https://solved.ac/bdbsrjsdn/)
