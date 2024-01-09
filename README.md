@@ -1,7 +1,9 @@
+<!--
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=175&text=Hi%20🍀&animation=fadeIn&fontAlignY=35&fontSize=45)
 </div>
+-->
 
 ## 😀 About Me
 - Major in Computer Science & Engineering
