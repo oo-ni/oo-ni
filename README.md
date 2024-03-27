@@ -9,7 +9,6 @@
 - Major in Computer Science & Engineering
 - Studying the field of **Backend & Data Engineering**
 - LIKELION GCU *7th*
-- *2021* NIA BigData Internship
 - BOAZ *21st* Data Engineering
 - Kakao Enterprise SW Academy - KEA *3rd*
 
