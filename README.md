@@ -10,7 +10,7 @@
 - Studying the field of **Backend & Data Engineering**
 - LIKELION GCU *7th*
 - BOAZ *21st* Data Engineering
-- Kakao Enterprise SW Academy - KEA *3rd*
+- Kakao Enterprise SW Academy *3rd*
 
 <br>
 
