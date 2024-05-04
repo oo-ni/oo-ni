@@ -28,13 +28,13 @@
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
   </a>
   <a>
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-  </a>
-  <a>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   </a>
   <a>
     <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+  </a>
+  <a>
+    <img alt="MySQL" src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   </a>
 
   <br>
