@@ -56,7 +56,7 @@
     <img alt="mongodb" src="https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   </a>
   <a>
-    <img alt="elasticsearch" src="https://img.shields.io/badge/elastic search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+    <img alt="elasticsearch" src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
   </a>
   <br>
   <a>
