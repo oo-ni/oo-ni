@@ -7,7 +7,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foo-ni&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 😀 About Me
+#### 😀 About Me
   
 - Major in Computer Science & Engineering
 - Studying the field of **Backend & Data Engineering**
@@ -17,8 +17,7 @@
 
 <br>
 
-
-### 🔥 In Use
+#### 🔥 In Use
 <div>
   <a>
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
@@ -32,7 +31,7 @@
 
   <br>
   <a>
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
   </a>
   <a>
     <img alt="MySQL" src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -47,7 +46,7 @@
 
 <br>
 
-### 📚 Interested In
+#### 📚 Interested In
 <div>
   <a>
     <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
@@ -109,19 +108,20 @@
 </div>
 -->
 
-<!--
-## 🎲 Stats
+#### 💻 Dev Log
 <div>
-  <a href="https://github.com/oo-ni/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oo-ni&include_all_commits=true&show_icons=true&theme=buefy" style="max-width: 100%">
+  <a href="https://ooni.oopy.io/">
+    <img alt="notion" src="https://img.shields.io/badge/notion-FFBE98?style=for-the-badge&logo=Notion&logoColor=black">
   </a>
-  <a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oo-ni&layout=compact" style="max-width: 100%">
+  <a href="https://github.com/oo-ni">
+    <img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-</div>
--->
 
-### 🎲 Stats
+</div>
+
+<br>
+
+#### 🎲 Stats
 <div>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bdbsrjsdn)](https://solved.ac/bdbsrjsdn/)
@@ -129,6 +129,16 @@
   <a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oo-ni&layout=compact" style="max-width: 100%">
   </a>
+
+  <!--
+  <a href="https://github.com/oo-ni/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oo-ni&include_all_commits=true&show_icons=true&theme=buefy" style="max-width: 100%">
+  </a>
+  <a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oo-ni&layout=compact" style="max-width: 100%">
+  </a>
+  -->
+  
 </div>
 
 
