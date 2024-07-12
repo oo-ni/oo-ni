@@ -15,8 +15,6 @@
 - BOAZ *21st* Data Engineering
 - Kakao Enterprise SW Academy *3rd*
 
-<br>
-
 #### 🔥 In Use
 <div>
   <a>
@@ -44,8 +42,6 @@
   
 </div>
 
-<br>
-
 #### 📚 Interested In
 <div>
   <a>
@@ -69,8 +65,6 @@
   </a>
   
 </div>
-
-<br>
 
 <!--
 <div align="center" dir="auto">
@@ -118,8 +112,6 @@
   </a>
 
 </div>
-
-<br>
 
 #### 🎲 Stats
 <div>
