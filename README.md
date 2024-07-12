@@ -118,9 +118,11 @@
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bdbsrjsdn)](https://solved.ac/bdbsrjsdn/)
 
+  <!--
   <a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oo-ni&layout=compact" style="max-width: 100%">
   </a>
+  -->
 
   <!--
   <a href="https://github.com/oo-ni/github-readme-stats">
