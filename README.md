@@ -11,7 +11,6 @@
   
 - Major in Computer Science & Engineering
 - Studying the field of **Backend & Data Engineering**
-- LIKELION GCU *7th*
 - BOAZ *21st* Data Engineering
 - Kakao Enterprise SW Academy *3rd*
 - Programmers DevCourse Cloud BE *1st*
