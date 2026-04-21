@@ -19,5 +19,5 @@ Major in CSE, Studying the field of **Backend & Data Engineering**
 
 #### 🎲 Stats
 <a href="https://github.com/oo-ni">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oo-ni&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oo-ni&hide=stars&show_icons=true&theme=merko" alt="GitHub Stats">
 </a>
